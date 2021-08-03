@@ -6,11 +6,11 @@
 
 根据 🦋 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题魔改
 
-事例 : [途中的树](https://zkpeace.com/blog-cn/home) | GitHub: [hexo-theme-unicorn](https://github.com/Uzizkp/hexo-theme-unicorn)
+事例 : [途中的树](https://zkpeace.com/blog-cn/home) | | [文档](https://zkpeace.com/blog-cn/posts/10093/#null)
 
 有任何问题可以加入社区讨论 : [微信群](https://img-1253324855.cos.ap-chengdu.myqcloud.com/Myweb_COS_2.0/img/wechatcode.jpg) | [Telegram](https://t.me/kpzhang) 
 
-别忘了点个✨Star哦，  也欢迎[提供赞助](https://zkpeace.com/blog-cn/Sponsorship/)
+GitHub: [hexo-theme-unicorn](https://github.com/Uzizkp/hexo-theme-unicorn), 别忘了点个✨Star哦，  也欢迎[提供赞助](https://zkpeace.com/blog-cn/Sponsorship/)
 
 **本主题可以兼容[Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)大部分内容** 
 相关设置文章：[途中的树2.0食用指南](http://localhost:4000/blog-cn/posts/16907/)
