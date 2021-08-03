@@ -1,32 +1,40 @@
-# 🦄️ Unicorn, a functional but neat hexo theme
+# 🦄️ Unicorn, 一个简洁且实用的Hexo主题
 
 ![](/source/img/example.png)
 
- Based on 🦋 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+根据 🦋 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题魔改
 
-Example site : [途中的树](https://zkpeace.com/blog-cn/)
+[English](README-EN.md)) | 中文
 
-U can apply most of the part of [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
+事例 : [途中的树](https://zkpeace.com/blog-cn/home)
 
----
-# Features
-## Design
+社区 : [Wechat](https://img-1253324855.cos.ap-chengdu.myqcloud.com/Myweb_COS_2.0/img/wechatcode.jpg) | [Telegram](https://t.me/kpzhang) 
 
-- Carousel home page
-- Blur effects Card UI
-- Elegent site map footer
-- Dashboard Profile page
-- Short page, less scroll operation
-- Elegent dark mode
-- More speical pages with plugin ...
+本主题可以兼容[Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)大部分内容
+其他特有设置，正在撰写教程，尽情期待
 
-## Web tech
+---# 特点
+
+## 设计
+
+- 旋转木马主页
+- 模糊效果的卡片式用户界面
+- 优雅的网站地图页脚
+- 仪表板简介页
+- 简短的页面，更少的滚动操作
+- 优雅的黑暗模式
+- 更多特殊页面...
+
+## 技术
 
 - pug
+- pjax
 - glup
 - mapbox.js
 - echart.js
 - three.js(upcoming...)
+
+
 
 
 
