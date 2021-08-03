@@ -4,7 +4,7 @@
 
 根据 🦋 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题魔改
 
-[English](README-EN.md)) | 中文
+[English](README-EN.md) | 中文
 
 事例 : [途中的树](https://zkpeace.com/blog-cn/home)
 
@@ -13,7 +13,8 @@
 本主题可以兼容[Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)大部分内容
 其他特有设置，正在撰写教程，尽情期待
 
----# 特点
+[提供赞助](https://zkpeace.com/blog-cn/Sponsorship/)，别忘了点个✨Star哦。
+# 特点
 
 ## 设计
 

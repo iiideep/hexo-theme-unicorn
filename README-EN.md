@@ -11,8 +11,10 @@ Example site : [途中的树](https://zkpeace.com/blog-cn/home)
 Tech Community : [Wechat](https://img-1253324855.cos.ap-chengdu.myqcloud.com/Myweb_COS_2.0/img/wechatcode.jpg) | [Telegram](https://t.me/kpzhang) 
 
 U can apply most of the part of [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
+
 Other setting instruction will come soon.
 
+[To be a Sponsor](https://zkpeace.com/blog-cn/Sponsorship/)
 ---
 # Features
 
