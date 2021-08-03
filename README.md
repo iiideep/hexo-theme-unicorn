@@ -1,8 +1,14 @@
 # 🦄️ Unicorn, a functional but neat hexo theme
 
-based on 🦋 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+![](/source/img/example.png)
+
+ Based on 🦋 [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
 
 Example site : [途中的树](https://zkpeace.com/blog-cn/)
+
+U can apply most of the part of [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
+
+---
 # Features
 ## Design
 
@@ -21,9 +27,7 @@ Example site : [途中的树](https://zkpeace.com/blog-cn/)
 - mapbox.js
 - echart.js
 - three.js(upcoming...)
-# Document
 
-U can apply most of the part of [Butterfly Docs](https://butterfly.js.org/posts/21cfbf15/)
 
 
 
