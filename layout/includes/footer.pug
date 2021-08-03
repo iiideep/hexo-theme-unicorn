@@ -11,8 +11,10 @@
                       li
                         a(href=val)=lab 
     #footer-info
-      a.copyright(href=theme.footer_copyright_address)=theme.footer_copyright
-      a.icp(href=theme.footer_icp_address)=theme.footer_icp
+      if theme.footer_copyright
+        a.copyright(href=theme.footer_copyright_address)=theme.footer_copyright
+      if theme.footer_icp
+        a.icp(href=theme.footer_icp_address)=theme.footer_icp
          
 
   //- if theme.footer.owner.enable

@@ -29,6 +29,8 @@ menu:
     论坛: https://www.zhihu.com/club/1365658701693595648 || fas fa-user-friends
     友链: https://zkpeace.com/links/ || fas fa-link
 
+# 设置网站的logo   
+logo: https://zkpeace.com/blog-cn/img/kp-logo.png
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
 # --------------------------------------
@@ -77,31 +79,32 @@ footer_text:
       开往: https://travellings.link
       岛屿: /links/
 
-footer_copyright: Copyright © 2021 Kuangpu Zhang.
-footer_copyright_address: copyright/
-footer_icp: 鲁ICP备20008114号-1
-footer_icp_address: http://www.beian.miit.gov.cn/state/outPortal/loginPortal.action
+#设置版权信息和ICP认证
+footer_copyright: 
+footer_copyright_address: 
+footer_icp: 
+footer_icp_address: 
 
 
 # 首页Carousel内容
 # --------------------------------------
 carousel_contents:
   page_1:
-    bg_img: <div class="anim-model" ><img src="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718002545.webp"/></div>
+    bg_img: https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718003538.webp
     title: 01 - Info &nbsp&nbsp&nbsp 
-    subtitle: 你好啊！我是<a class="info-link" href="profile">Kp</a>一只小小的计算机攻城狮，喜欢<a class="info-link" href="gallery">摄影</a> <a class="info-link" href="travel">旅行</a>&<a class="info-link" href="https://www.notion.so/wikiwhale/3633a659e2a1478eaf6c8904c86de401">技术</a>.
+    subtitle: 这是第一页的介绍，介绍里可以添加 <a href="">超链接</a> 
   page_2:
-    bg_img: <img src="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718003538.webp"/>
+    bg_img: https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718003538.webp
     title: 02 - Job &nbsp&nbsp&nbsp 
-    subtitle: 正在寻觅人工智能工程师相关岗位, 欢迎大佬们查看我的<a class="info-link" href="profile/">简历</a>和<a class="info-link" href="Projects/">项目</a>.
+    subtitle: 这是第二页的介绍，介绍里可以添加 <a href="">超链接</a> 
   page_3:
-    bg_img: <img src="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718003414.webp"/>
+    bg_img: https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718003538.webp
     title: 03 - SNS &nbsp&nbsp&nbsp 
-    subtitle: 欢迎关注我的<a class="info-link" href="profile/">社交账号</a>, 查阅我的<a class="info-link" href="https://www.notion.so/wikiwhale/3633a659e2a1478eaf6c8904c86de401">技术笔记</a>，加入我的 <a href="https://img-1253324855.cos.ap-chengdu.myqcloud.com/Myweb_COS_2.0/img/wechatcode.jpg"><i class="fab fa-weixin"></i></a> <a  href="https://t.me/kpzhang"><i class="fab fa-telegram-plane"></i></a> 交流群
+    subtitle: 这是第三页的介绍，介绍里可以添加 <a href="">超链接</a> 
   page_4:
-    bg_img: <img src="https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210725104927.png"/>
+    bg_img: https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/20210718003538.webp
     title: 04 - More &nbsp&nbsp 
-    subtitle: 本网站正在建设中, 欢迎 <a class="info-link" href="Message/">反馈</a> 错误. 如果本站内容帮助到了你，求 <a class="info-link" href="Sponsorship/">赞赏</a>.
+    subtitle: 这是第四页的介绍，介绍里可以添加 <a href="">超链接</a> 
 
       # Code Blocks (代碼相關)
 # --------------------------------------
@@ -116,7 +119,7 @@ code_word_wrap: false
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
 copy:
-  enable: false
+  enable: true
   copyright:
     enable: true
     limit_count: 50

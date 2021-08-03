@@ -1,7 +1,7 @@
 #carousel
     each content,page in theme.carousel_contents
           .carousel-box.fade
-            | !{content.bg_img}
+            img(src=content.bg_img)
             .site-info 
                  h1.site-title 
                     | !{content.title}
